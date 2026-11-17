@@ -14,17 +14,27 @@ I combine hands-on C++ and Python engineering with product direction and deliver
 
 ## Selected experience
 
-- **ProfitView — Co-founder, 2019–present.** Product direction, partnerships and technical delivery for an algorithmic trading platform, including the BitMEX Bots partnership.
-- **Bank of America Merrill Lynch, 2019.** Python development for full-revaluation VaR in Quartz.
-- **BNP Paribas, 2018.** Distributed C++/Python pricing and risk systems.
-- **Euronext — Optiq, 2016–2017.** Core C++ exchange development and technical project leadership, including event-driven architecture, FIX interfaces, recovery and pre-trade risk controls.
-- **Morgan Stanley, 2012–2014.** Technical programme leadership across equity derivatives and front-to-back workflows.
-- **Macquarie, 2010–2011.** Led OTC equity derivatives projects, including structured-product trade capture and lifecycle integration.
-- **Barclays, 2008–2010 and 2014–2016.** Led 11 senior risk developers across four locations; later developed cross-asset risk analytics and P&L attribution in C++.
+- <a href="https://profitview.net/"><img src="assets/brands/profitview.svg" alt="ProfitView logo" height="20"></a> **[ProfitView](https://profitview.net/) — Co-founder, 2019–present.** Product direction, partnerships and technical delivery for an algorithmic trading platform, including the BitMEX Bots partnership.
+- <a href="https://www.bankofamerica.com/"><img src="assets/brands/bank-of-america.png" alt="Bank of America logo" height="20"></a> **[Bank of America Merrill Lynch](https://www.bankofamerica.com/), 2019.** Python development for full-revaluation VaR in Quartz.
+- <a href="https://www.bnpparibas.co.uk/en/"><img src="assets/brands/bnp-paribas.svg" alt="BNP Paribas logo" height="20"></a> **[BNP Paribas](https://www.bnpparibas.co.uk/en/), 2018.** Distributed C++/Python pricing and risk systems.
+- <a href="https://www.euronext.com/en"><img src="assets/brands/euronext.svg" alt="Euronext logo" height="20"></a> **[Euronext](https://www.euronext.com/en) — Optiq, 2016–2017.** Core C++ exchange development and technical project leadership, including event-driven architecture, FIX interfaces, recovery and pre-trade risk controls.
+- <a href="https://www.morganstanley.com/"><img src="assets/brands/morgan-stanley.png" alt="Morgan Stanley logo" height="20"></a> **[Morgan Stanley](https://www.morganstanley.com/), 2012–2014.** Technical programme leadership across equity derivatives and front-to-back workflows.
+- <a href="https://www.macquarie.com/uk/en.html"><img src="assets/brands/macquarie.png" alt="Macquarie logo" height="20"></a> **[Macquarie](https://www.macquarie.com/uk/en.html), 2010–2011.** Led OTC equity derivatives projects, including structured-product trade capture and lifecycle integration.
+- <a href="https://home.barclays/"><img src="assets/brands/barclays.png" alt="Barclays logo" height="20"></a> **[Barclays](https://home.barclays/), 2008–2010 and 2014–2016.** Led 11 senior risk developers across four locations; later developed cross-asset risk analytics and P&L attribution in C++.
+
+## Consulting and education
+
+- <a href="https://alertatron.com/"><img src="assets/brands/alertatron.svg" alt="Alertatron logo" height="24"></a> **[Alertatron](https://alertatron.com/) — Technical consultancy.** Secured and delivered consulting work analysing, diagramming and documenting Alertatron's technical system to support technical due diligence.
+- <a href="https://www.hkbu.edu.hk/"><img src="assets/brands/hkbu.svg" alt="Hong Kong Baptist University School of Business logo" height="24"></a> **[Hong Kong Baptist University](https://www.hkbu.edu.hk/) — Algorithmic trading education.** Led ProfitView's education partnership supporting Python strategy development and simulated trading. Delivered an MSc Finance guest lecture on 20 May 2025, with supporting Python examples. [FIN 7850: Algorithmic and High-Frequency Trading](https://handbook.ar.hkbu.edu.hk/2026-2027/course/FIN7850) · [MSc Finance programme](https://mscfinance-fintech.hkbu.edu.hk/programme/curriculum.html) · [Guest lecture materials](https://github.com/profitviews/mscfinance.hkbu.2025).
+- <a href="https://www.polyu.edu.hk/"><img src="assets/brands/polyu.svg" alt="Hong Kong Polytechnic University logo" height="24"></a> **[Hong Kong Polytechnic University](https://www.polyu.edu.hk/) — Algorithmic trading education.** Led ProfitView's education partnership supporting team-based Python trading strategies, simulated markets, competitions and student presentations. [Quantitative Finance and FinTech programme](https://www.polyu.edu.hk/ama/study/ug/amfa/) · Related course: [AMA4370 — Applied Algorithmic Trading Strategies](https://www.polyu.edu.hk/ama/information/undergraduate/AMA4370.pdf).
 
 ## Talks and community
 
 I organise [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) and [London Quant Club](https://www.meetup.com/london-quant-club/), bringing traders, developers and quants together around practical trading technology.
+
+<a href="https://www.meetup.com/pydata-london-meetup/events/316770322/"><img src="assets/images/pydata-richard-hickling.jpeg" alt="Richard Hickling presenting Making Python Faster at PyData London" width="560"></a>
+
+*Presenting “Making Python Faster” at PyData London, Birkbeck, 6 October 2026.*
 
 - **[Making Python Faster](https://www.meetup.com/pydata-london-meetup/events/316770322/)** — PyData London, 6 October 2026. Lightning talk on Python/C++ interoperability and reflection-generated bindings.
 - **Why Python is the best language for algorithmic trading** — [PyData London's 100th Meetup](https://www.meetup.com/pydata-london-meetup/), 7 October 2025. Python trading workflows and a live bot demonstration.

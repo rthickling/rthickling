@@ -41,6 +41,20 @@ These public demonstrations explore the engineering behind trading and financial
 - **[Merton Market Maker](https://github.com/rthickling/merton-market-maker)** — Online jump-diffusion calibration in C++, with reflection-generated Python bindings and illustrative paper quoting. An engineering demonstration, presented at PyData London.
 - **[Compute Trade](https://github.com/rthickling/compute-trade)** — An educational C++ exchange for computation resources, using Simplx actors, SBE messaging, a TCP order gateway and price/time matching.
 
+<details>
+<summary>More projects — trading infrastructure, blockchain and AI experiments</summary>
+
+- **[simplx](https://github.com/rthickling/simplx)** — C++ framework for concurrent distributed systems, originally developed by Tredzone.
+- **[equity-ops-lab](https://github.com/rthickling/equity-ops-lab)** — Prototype equity trade-event processing with Kafka, Avro and SQLite.
+- **[crypto-stock](https://github.com/rthickling/crypto-stock)** — Python example comparing IBIT ETF and BitMEX Bitcoin perpetual prices.
+- **[bitcoin-wallet](https://github.com/rthickling/bitcoin-wallet)** — Educational Python notebook exploring Bitcoin keys, addresses and transaction signing.
+- **[vault-face](https://github.com/rthickling/vault-face)** — Experimental DeFiChain vault signals for ProfitView and WOO X.
+- **[news-droid](https://github.com/rthickling/news-droid)** — Experimental cryptocurrency news-sentiment analysis and trading bot for ProfitView.
+- **[bf-sqlite](https://github.com/rthickling/bf-sqlite)** — Experimental SQLite file-format reads and controlled writes using Brainfuck.
+- **[welcome-to-the-machine](https://github.com/rthickling/welcome-to-the-machine)** — Machine-code experiments with executable binaries, byte-level explanations and verifiers.
+
+</details>
+
 ## Technical toolkit
 
 C++ · Python · Java · SQL · KDB/q · Kafka · FIX/SBE · Linux · Docker

@@ -24,12 +24,12 @@ I combine hands-on C++ and Python engineering with product direction and deliver
 
 ## Talks and community
 
-I organise [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) and collaborate on joint events with [London Quant Club](https://www.meetup.com/london-quant-club/), bringing traders, developers and quants together around practical trading technology.
+I organise [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) and [London Quant Club](https://www.meetup.com/london-quant-club/), bringing traders, developers and quants together around practical trading technology.
 
 - **[Making Python Faster](https://www.meetup.com/pydata-london-meetup/events/316770322/)** — PyData London, 6 October 2026. Lightning talk on Python/C++ interoperability and reflection-generated bindings.
-- **Why Python is the best language for algorithmic trading** — [PyData London](https://www.meetup.com/pydata-london-meetup/), 100th Meetup, 7 October 2025. Python trading workflows and a live BitMEX bot demonstration.
+- **Why Python is the best language for algorithmic trading** — [PyData London's 100th Meetup](https://www.meetup.com/pydata-london-meetup/), 7 October 2025. Python trading workflows and a live bot demonstration.
 - **[C++ and Python for Algorithmic Trading](https://profitview.net/events/cpp-python-algo-trading)** — ProfitView, 20 December 2022. My presentation on retrieving Parquet trading data in C++ and displaying it through Python, alongside talks by Antony Peacock and Rainer Grimm.
-- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** — ProfitView / BitMEX, 8 December 2023. Co-presenter, covering fundamentals and deploying a starter bot from GitHub.
+- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** 8 December 2023. Co-presenter, covering fundamentals and deploying a starter bot from GitHub.
 
 [More presentations and webinars](talks.md), including the ProfitView / HKU SPACE series on signals and backtesting.
 

@@ -12,7 +12,7 @@ I speak and teach about trading systems, Python, C++ and practical algorithmic t
 ## PyData London
 
 - **[Making Python Faster](https://www.meetup.com/pydata-london-meetup/events/316770322/)** — 6 October 2026, 110th Meetup at Birkbeck, University of London. Lightning talk on combining Python with C++ and generating bindings using reflection. The accompanying [Merton Market Maker project](https://github.com/rthickling/merton-market-maker) provides an engineering demonstration using online jump-diffusion calibration and paper quoting.
-- **Why Python is the best language for algorithmic trading** — 7 October 2025, [PyData London](https://www.meetup.com/pydata-london-meetup/), 100th Meetup. Practical Python trading workflows, from data and strategy development to a live BitMEX bot demonstration.
+- **Why Python is the best language for algorithmic trading** — 7 October 2025, [PyData London](https://www.meetup.com/pydata-london-meetup/), 100th Meetup. Practical Python trading workflows, from data and strategy development to a live bot demonstration.
 
 ## ProfitView technical presentations
 
@@ -28,8 +28,8 @@ I speak and teach about trading systems, Python, C++ and practical algorithmic t
 
 ## Partner webinars and London events
 
-- **[Battle of the Bots: Creator Kick-off](https://profitview.net/events/battle-of-the-bots-creator-kick-off)** — 29 July 2025. Host and presenter of the BitMEX Bots and ProfitView overview, bringing developers and traders together for a bot-building competition. Cross-listed by Algorithmic Trading, London and London Quant Club. [Speaker agenda](https://luma.com/Battle_of_the_Bots_Kick_Off).
+- **[Battle of the Bots: Creator Kick-off](https://profitview.net/events/battle-of-the-bots-creator-kick-off)** — 29 July 2025. Host and presenter of Bots and ProfitView overview, bringing developers and traders together for a bot-building competition. Cross-listed by Algorithmic Trading, London and London Quant Club. [Speaker agenda](https://luma.com/Battle_of_the_Bots_Kick_Off).
 - **[Why You Should Always Trade with Bots (That You Trust)](https://profitview.net/events/talking-about-bots)** — 13 May 2025. My session at *Talking about Bots*, exploring the engineering and behavioural case for automation. Robert Carver gives the accompanying session on systematic trading and fund management.
-- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** — 8 December 2023. Co-presenter in the ProfitView / BitMEX webinar with Ben Usinger and Jahan Zahid. My sections cover the fundamentals and deploying a working starter bot from GitHub into ProfitView.
+- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** — 8 December 2023. Co-presenter in the ProfitView webinar with Ben Usinger and Jahan Zahid. My sections cover the fundamentals and deploying a working starter bot from GitHub into ProfitView.
 
 Further event listings: [ProfitView events](https://profitview.net/events).

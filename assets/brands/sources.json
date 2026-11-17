@@ -1,0 +1,47 @@
+{
+  "profitview.svg": {
+    "source_page": "https://profitview.net/",
+    "asset_url": "https://cloud.profitview.net/assets/images/logo.png",
+    "presentation": "Original artwork on a white backing for light and dark backgrounds; proportions preserved."
+  },
+  "bnp-paribas.svg": {
+    "source_page": "https://www.bnpparibas.co.uk/en/",
+    "asset_url": "https://www.bnpparibas.co.uk/app/themes/bnpp-pays-v2c/assets/img/static/logo-bnp.svg",
+    "presentation": "Original artwork on a white backing for light and dark backgrounds; proportions preserved."
+  },
+  "euronext.svg": {
+    "source_page": "https://www.euronext.com/en",
+    "asset_url": "https://www.euronext.com/themes/custom/euronext_com/logo.svg",
+    "presentation": "Original artwork on a white backing for light and dark backgrounds; proportions preserved."
+  },
+  "hkbu.svg": {
+    "source_page": "https://mscfinance-fintech.hkbu.edu.hk/programme/curriculum.html",
+    "asset_url": "https://mscfinance-fintech.hkbu.edu.hk/content/dam/mscfinance-fintech-assets/logo/logo_hkbu_bus.svg",
+    "presentation": "Original artwork on a white backing for light and dark backgrounds; proportions preserved."
+  },
+  "polyu.svg": {
+    "source_page": "https://www.polyu.edu.hk/",
+    "asset_url": "https://www.polyu.edu.hk/assets/img/main-logo-3x.png",
+    "presentation": "Original artwork on a white backing for light and dark backgrounds; proportions preserved."
+  },
+  "bank-of-america.png": {
+    "source_page": "https://www.bankofamerica.com/",
+    "asset_url": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-android-chrome-192x192-CSXafb7d716.png"
+  },
+  "morgan-stanley.png": {
+    "source_page": "https://www.morganstanley.com/",
+    "asset_url": "https://www.morganstanley.com/etc.clientlibs/msdotcomr5/clientlibs/components/site/resources/img/favicon-32x32.png"
+  },
+  "macquarie.png": {
+    "source_page": "https://www.macquarie.com/uk/en.html",
+    "asset_url": "https://www.macquarie.com/assets/macq/favicon.ico"
+  },
+  "barclays.png": {
+    "source_page": "https://home.barclays/",
+    "asset_url": "https://home.barclays/content/dam/icons/favicons/barclays/apple-touch-icon-120x120.png"
+  },
+  "alertatron.svg": {
+    "source_page": "https://alertatron.com/",
+    "asset_url": "https://alertatron.com/img/alertatron-flynn.svg?v=2"
+  }
+}

@@ -12,6 +12,21 @@ I combine hands-on C++ and Python engineering with product direction and deliver
 - **Technical delivery:** architecture, cross-team coordination and delivery across front office, risk, operations and production.
 - **Product and partnerships:** fintech product direction, exchange partnerships, developer education and translating complex technology into practical tools.
 
+## Talks and community
+
+I organise [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) and [London Quant Club](https://www.meetup.com/london-quant-club/), bringing traders, developers and quants together around practical trading technology.
+
+<a href="https://www.meetup.com/pydata-london-meetup/events/316770322/"><img src="assets/images/pydata-richard-hickling.jpeg" alt="Richard Hickling presenting Making Python Faster at PyData London" width="560"></a>
+
+*Presenting “Making Python Faster” at PyData London, Birkbeck, 6 October 2026.*
+
+- **[Making Python Faster](https://www.meetup.com/pydata-london-meetup/events/316770322/)** — PyData London, 6 October 2026. Lightning talk on Python/C++ interoperability and reflection-generated bindings.
+- **Why Python is the best language for algorithmic trading** — [PyData London's 100th Meetup](https://www.meetup.com/pydata-london-meetup/), 7 October 2025. Python trading workflows and a live bot demonstration.
+- **[C++ and Python for Algorithmic Trading](https://profitview.net/events/cpp-python-algo-trading)** — ProfitView, 20 December 2022. My presentation on retrieving Parquet trading data in C++ and displaying it through Python, alongside talks by Antony Peacock and Rainer Grimm.
+- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** 8 December 2023. Co-presenter, covering fundamentals and deploying a starter bot from GitHub.
+
+[More presentations and webinars](talks.md), including the ProfitView / HKU SPACE series on signals and backtesting.
+
 ## Selected experience
 
 - <a href="https://profitview.net/"><img src="assets/brands/profitview.svg" alt="ProfitView logo" height="20" align="absmiddle"></a> — **Co-founder, 2019–present.** Product direction, partnerships and technical delivery for an algorithmic trading platform, including the BitMEX Bots partnership.
@@ -35,21 +50,6 @@ I combine hands-on C++ and Python engineering with product direction and deliver
 - <a href="https://www.hkbu.edu.hk/"><img src="assets/brands/hkbu.svg" alt="Hong Kong Baptist University School of Business logo" height="24" align="absmiddle"></a> **[Hong Kong Baptist University](https://www.hkbu.edu.hk/) — Algorithmic trading education.** Led ProfitView's education partnership supporting Python strategy development and simulated trading. Delivered an MSc Finance guest lecture on 20 May 2025, with supporting Python examples. [FIN 7850: Algorithmic and High-Frequency Trading](https://handbook.ar.hkbu.edu.hk/2026-2027/course/FIN7850) · [MSc Finance programme](https://mscfinance-fintech.hkbu.edu.hk/programme/curriculum.html) · [Guest lecture materials](https://github.com/profitviews/mscfinance.hkbu.2025).
 
 - <a href="https://www.polyu.edu.hk/"><img src="assets/brands/polyu.svg" alt="Hong Kong Polytechnic University logo" height="24" align="absmiddle"></a> **[Hong Kong Polytechnic University](https://www.polyu.edu.hk/) — Algorithmic trading education.** Led ProfitView's education partnership supporting team-based Python trading strategies, simulated markets, competitions and student presentations. [Quantitative Finance and FinTech programme](https://www.polyu.edu.hk/ama/study/ug/amfa/) · Related course: [AMA4370 — Applied Algorithmic Trading Strategies](https://www.polyu.edu.hk/ama/information/undergraduate/AMA4370.pdf).
-
-## Talks and community
-
-I organise [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) and [London Quant Club](https://www.meetup.com/london-quant-club/), bringing traders, developers and quants together around practical trading technology.
-
-<a href="https://www.meetup.com/pydata-london-meetup/events/316770322/"><img src="assets/images/pydata-richard-hickling.jpeg" alt="Richard Hickling presenting Making Python Faster at PyData London" width="560"></a>
-
-*Presenting “Making Python Faster” at PyData London, Birkbeck, 6 October 2026.*
-
-- **[Making Python Faster](https://www.meetup.com/pydata-london-meetup/events/316770322/)** — PyData London, 6 October 2026. Lightning talk on Python/C++ interoperability and reflection-generated bindings.
-- **Why Python is the best language for algorithmic trading** — [PyData London's 100th Meetup](https://www.meetup.com/pydata-london-meetup/), 7 October 2025. Python trading workflows and a live bot demonstration.
-- **[C++ and Python for Algorithmic Trading](https://profitview.net/events/cpp-python-algo-trading)** — ProfitView, 20 December 2022. My presentation on retrieving Parquet trading data in C++ and displaying it through Python, alongside talks by Antony Peacock and Rainer Grimm.
-- **[Getting Started with Trading Bots](https://profitview.net/events/getting-started-with-trading-bots)** 8 December 2023. Co-presenter, covering fundamentals and deploying a starter bot from GitHub.
-
-[More presentations and webinars](talks.md), including the ProfitView / HKU SPACE series on signals and backtesting.
 
 ## Selected projects
 
